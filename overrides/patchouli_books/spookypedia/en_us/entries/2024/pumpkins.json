@@ -12,7 +12,7 @@
     {
       "type": "patchouli:image",
       "images": ["spookyjam:textures/gui/entries/hero_pumpkins.png"],
-      "title": "Spell: Light",
+      "title": "Pumpkins",
       "text": "An assortment of different pumpkins.$(br)",
       "border": true
     }
