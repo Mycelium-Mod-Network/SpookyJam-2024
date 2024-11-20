@@ -63,12 +63,12 @@ events.register<AdvancementEarnEvent>(event => {
         val sp = player as ServerPlayer;
         val sl = level as ServerLevel;
         val server = sl.server;
-        val completeAdv = server.advancements[completeAdv];
+        val completeAdv = server.advancements[completionAdvId];
         // Checks if the player already has the advancement, so they don't get
         // it again.
-        if (!sp.advancements.getOrStartProgress(completeAdvId).done) {
+        if (!sp.advancements.getOrStartProgress(completeAdv).done) {
             // Check if they have completed all of the required advancements.
-            for (advancement in huntAdvancements) {
+            for advancement in huntAdvancements {
                 if (!sp.advancements.getOrStartProgress(server.advancements[advancement]).done) {
                     return;
                 }
