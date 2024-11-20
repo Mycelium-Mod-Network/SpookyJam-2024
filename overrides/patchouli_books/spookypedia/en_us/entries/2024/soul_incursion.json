@@ -1,0 +1,20 @@
+{
+  "name": "Soul Incursion",
+  "icon": "soul_incursion:lost_soul",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "The mysterious power of the soul is yours to discover. Explore the soul church, fight new mobs, and find intriguing loot.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/soul-incursion",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_soul_church.png"],
+      "title": "Soul Church",
+      "text": "The soul church is an epicenter of soul activity. Defeat this challenge and claim valuable loot!$(br)",
+      "border": true
+    }
+  ]
+}

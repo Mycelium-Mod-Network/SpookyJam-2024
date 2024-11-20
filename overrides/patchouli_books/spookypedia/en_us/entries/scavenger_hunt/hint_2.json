@@ -1,0 +1,30 @@
+{
+  "name": "Hint #2",
+  "icon": "minecraft:paper",
+  "category": "patchouli:scavenger_hunt",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "name": "Hint #2",
+      "text": "Blaze and honey, a fiery brew, in a keg of warmth for the daring few. Find the drink that quickens pace, where lava's glow and sweetness embrace.$(br)$(br)See the next page for the answer."
+    },
+    {
+      "type": "patchouli:empty"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "link_recipe": false,
+      "title": "Answer #2",
+      "text": "Brew an Infernal Mule using a keg. The recipe requires lava, gunpowder, blaze powder, and honey comb.",
+      "item": {
+        "item": "skullsandspirits:infernal_mule"
+      }
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "skullsandspirits:shoddy_keg",
+      "title": "Answer #2",
+      "text": "This is the crafting recipe for the keg.$(br)"
+    }
+  ]
+}

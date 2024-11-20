@@ -1,0 +1,30 @@
+{
+  "name": "Hint #4",
+  "icon": "minecraft:paper",
+  "category": "patchouli:scavenger_hunt",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "name": "Hint #4",
+      "text": "With Midas's touch, the seeds take hold. A blooming fruit in shades of gold. Bake with care, and feast your eye, a golden glow within the pie.$(br)$(br)See the next page for the answer."
+    },
+    {
+      "type": "patchouli:empty"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "link_recipe": false,
+      "title": "Answer #4",
+      "text": "Craft or find golden pumpkin seeds, grow a golden pumpkin, and craft a golden pumpkin pie.",
+      "item": {
+        "item": "pumpkinsoplenty:golden_pumpkin_pie"
+      }
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "spookyjam:gold_pumpkin",
+      "title": "Answer #4",
+      "text": "Golden pumpkin seeds are normally found in woodland mansions, this recipe allows you to craft them instead.$(br)"
+    }
+  ]
+}

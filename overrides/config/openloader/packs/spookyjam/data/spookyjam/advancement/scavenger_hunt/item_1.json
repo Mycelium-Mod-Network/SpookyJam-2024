@@ -1,0 +1,38 @@
+{
+  "parent": "spookyjam:scavenger_hunt/root",
+  "display": {
+    "title": {
+      "text": "Item #1"
+    },
+    "description": {
+      "text": "Obtain the Scroll of the Glass Heart."
+    },
+    "icon": {
+      "count": 1,
+      "id": "wanderingcursebringer:glass_heart_scroll"
+    },
+    "hidden": true,
+    "announce_to_chat": false
+  },
+  "rewards": {
+    "experience": 13,
+    "function": "spookyjam:get_item"
+  },
+  "criteria": {
+    "get_item": {
+      "conditions": {
+        "items": [
+          {
+            "items": "wanderingcursebringer:glass_heart_scroll"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "get_item"
+    ]
+  ]
+}

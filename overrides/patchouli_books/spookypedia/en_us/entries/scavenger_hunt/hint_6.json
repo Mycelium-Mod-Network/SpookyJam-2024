@@ -1,0 +1,30 @@
+{
+  "name": "Hint #6",
+  "icon": "minecraft:paper",
+  "category": "patchouli:scavenger_hunt",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "name": "Hint #6",
+      "text": "In misty marsh where ruins lie, a relic waits, low and sly. Through muddy depths, your path may stray, the frog's visage guides the way.$(br)$(br)See the next page for the answer."
+    },
+    {
+      "type": "patchouli:empty"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "link_recipe": false,
+      "title": "Answer #6",
+      "text": "Find a frog mask hidden beneath the swamp ruins. A frog mask will always generate in suspicious sand hidden within the structure.",
+      "item": {
+        "item": "impillagers:frog_mask"
+      }
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecraft:brush",
+      "title": "Answer #6",
+      "text": "A brush will be required to retrieve the mask from suspicious sand.$(br)"
+    }
+  ]
+}

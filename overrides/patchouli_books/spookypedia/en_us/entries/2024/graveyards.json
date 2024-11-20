@@ -1,0 +1,20 @@
+{
+  "name": "Graveyards",
+  "icon": "graveyards:gravestone",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "Eerie graveyards can be found in villages across your world. Take care not to disturb them, or their inhabitants may disturb you!",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/graveyards",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_graveyards.png"],
+      "title": "Graveyard",
+      "text": "An eerie graveyard found in a village.$(br)",
+      "border": true
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "parent": "spookyjam:scavenger_hunt/root",
+  "display": {
+    "title": {
+      "text": "Item #11"
+    },
+    "description": {
+      "text": "Obtain a Shadow Saddle."
+    },
+    "icon": {
+      "count": 1,
+      "id": "shadowmounts:shadow_saddle"
+    },
+    "hidden": true,
+    "announce_to_chat": false
+  },
+  "rewards": {
+    "experience": 13,
+    "function": "spookyjam:get_item"
+  },
+  "criteria": {
+    "get_item": {
+      "conditions": {
+        "items": [
+          {
+            "items": "shadowmounts:shadow_saddle"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "get_item"
+    ]
+  ]
+}

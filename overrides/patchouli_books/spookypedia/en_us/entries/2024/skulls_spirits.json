@@ -1,0 +1,41 @@
+{
+  "name": "Skulls & Spirits",
+  "icon": "skullsandspirits:mug",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "Brew eerie drinks and cocktails using the new keg block!",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/skulls-spirits",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skullsandspirits:gravekeepers_brew"
+      },
+      "text": "Grants a status effect that will protect the players items in a gravestone after death."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skullsandspirits:bloodwine"
+      },
+      "text": "Temporarily grants the lifesteal ability, recovering 30% of damage during battle."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skullsandspirits:rotten_rum"
+      },
+      "text": "Temporarily grants additional health, and a improves health regeneration. Also makes you slightly bigger!"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skullsandspirits:infernal_mule"
+      },
+      "text": "Temporarily grants a speed boost and the ability to double jump!"
+    }
+  ]
+}

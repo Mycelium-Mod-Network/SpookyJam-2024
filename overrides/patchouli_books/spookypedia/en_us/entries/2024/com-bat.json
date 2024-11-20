@@ -1,0 +1,13 @@
+{
+  "name": "Com-Bat",
+  "icon": "minecraft:bat_spawn_egg",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "This mod makes bats aggressive. They will now pathfind towards, and attack players and other neutral mobs.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/com-bat",
+      "link_text": "Mod Homepage"
+    }
+  ]
+}

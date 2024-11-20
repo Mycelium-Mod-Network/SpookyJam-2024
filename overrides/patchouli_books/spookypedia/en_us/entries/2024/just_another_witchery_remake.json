@@ -1,0 +1,20 @@
+{
+  "name": "Just Another Witchery Remake",
+  "icon": "witchery:focused_will",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "Another mod that aims to bring witchery inspired content to newer versions of Minecraft.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/just-another-witchery-remake",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_pot.png"],
+      "title": "Seal",
+      "text": "An oxidized copper cauldron.$(br)",
+      "border": true
+    }
+  ]
+}

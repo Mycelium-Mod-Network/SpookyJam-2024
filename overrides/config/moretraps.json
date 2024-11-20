@@ -1,0 +1,32 @@
+{
+  "options": {
+    "enabled": true,
+    "debugMode": false,
+    "activationRange": 10.0,
+    "allowInstant": false,
+    "effectDuration": -1,
+    "showParticles": false,
+    "traps": [
+      {
+        "sourceId": "minecraft:pig",
+        "spawnId": "minecraft:pig",
+        "passengerId": "minecraft:zombified_piglin",
+        "passengerOnSource": true,
+        "invertRiding": false,
+        "chance": 0.05,
+        "spawnNum": 3,
+        "effectNum": 4
+      },
+      {
+        "sourceId": "minecraft:horse",
+        "spawnId": "minecraft:horse",
+        "passengerId": "minecraft:pillager",
+        "passengerOnSource": true,
+        "invertRiding": false,
+        "chance": 0.05,
+        "spawnNum": 2,
+        "effectNum": 0
+      }
+    ]
+  }
+}

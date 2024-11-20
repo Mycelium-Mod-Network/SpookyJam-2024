@@ -1,0 +1,31 @@
+{
+  "name": "Hint #10",
+  "icon": "minecraft:paper",
+  "category": "patchouli:scavenger_hunt",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "name": "Hint #10",
+      "text": "From depths below where metals gleam, shape the mold of a crafter's dream. With deepslates strength and silvers light, forge the path to hidden might.$(br)$(br)See the next page for the answer."
+    },
+    {
+      "type": "patchouli:empty"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "link_recipe": false,
+      "title": "Answer #10",
+      "text": "Craft a silver smithing template.",
+      "item": {
+        "item": "spooky_structures:silver_smithing_template"
+      }
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "spooky_structures:crafting/silver_smithing_template",
+      "title": "Answer #10",
+      "text": "Crafting recipe for the silver smithing template.$(br)"
+    }
+  ]
+}

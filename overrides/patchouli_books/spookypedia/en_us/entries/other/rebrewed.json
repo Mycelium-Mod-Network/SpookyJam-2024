@@ -1,0 +1,13 @@
+{
+  "name": "Rebrewed",
+  "icon": "minecraft:jack_o_lantern",
+  "category": "patchouli:other_submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "This mod overhauls the brewing system, and aims to make brewing before accessing the nether easier.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/rebrewed",
+      "link_text": "Mod Homepage"
+    }
+  ]
+}

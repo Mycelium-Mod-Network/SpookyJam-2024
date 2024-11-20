@@ -1,0 +1,30 @@
+{
+  "name": "Hint #5",
+  "icon": "minecraft:paper",
+  "category": "patchouli:scavenger_hunt",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "name": "Hint #5",
+      "text": "In haunted fields where gourds arise, and restless souls meet shadowed skies. Seek drops from foes, both bone and vine, to forge a blade of pumpkin spine.$(br)$(br)See the next page for the answer."
+    },
+    {
+      "type": "patchouli:empty"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "link_recipe": false,
+      "title": "Answer #5",
+      "text": "Craft a pumpkin sword using pumpkin pieces and the souls of pumpkin mobs.",
+      "item": {
+        "item": "pumpkinpastures:pumpkin_sword"
+      }
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "pumpkinpastures:pumpkin_sword",
+      "title": "Answer #5",
+      "text": "The crafting recipe for the pumpkin sword. All souls, including the corrupted souls are drops from pumpkin zombies, skeletons, and creepers. If you need more souls, try using the looting enchantment.$(br)"
+    }
+  ]
+}

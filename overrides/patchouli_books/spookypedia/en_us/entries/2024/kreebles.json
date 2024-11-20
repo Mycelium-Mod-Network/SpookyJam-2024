@@ -1,0 +1,20 @@
+{
+  "name": "Kreebles",
+  "icon": "kreebles:dastardly_talisman",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "Kreebles are mysterious creatures that sleep within rocks deep below the earth. Be careful not to disturb their sleep! They sometimes drop a talisman that can freeze them in place.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/kreebles",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_kreebles.png"],
+      "title": "Kreeble",
+      "text": "A kreeble that has been disturbed by an unaware player.$(br)",
+      "border": true
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Trick or Treat",
+  "icon": "trickortreat:creepy_cake",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "At night you can trick or treat with villagers! Will you get a trick or a treat?",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/trick-or-treat-2024",
+      "link_text": "Mod Homepage"
+    }
+  ]
+}

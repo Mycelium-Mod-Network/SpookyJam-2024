@@ -1,0 +1,31 @@
+{
+  "name": "Hint #12",
+  "icon": "minecraft:paper",
+  "category": "patchouli:scavenger_hunt",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "name": "Hint #12",
+      "text": "A banner waits in shadows bland, for patterns cast by midnight hand. Find the glyphs both dark and grand, a secret script to mark the land.$(br)$(br)See the next page for the answer."
+    },
+    {
+      "type": "patchouli:empty"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "link_recipe": false,
+      "title": "Answer #12",
+      "text": "Craft the nyctograph banner pattern.",
+      "item": {
+        "item": "nyctography:nyctography_pattern"
+      }
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "nyctography:crafting/nyctography_pattern",
+      "title": "Answer #12",
+      "text": "Crafting recipe for the nyctography banner pattern.$(br)"
+    }
+  ]
+}

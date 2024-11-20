@@ -1,0 +1,45 @@
+	["Accessories Configs"."Sustenance Charm"]
+		#How much food should the charm give [1]
+		#1 = Half hunger point
+		# Default: 1
+		# Range: > 1
+		charmFood = 1
+		#How much saturation should the charm give [1]
+		#1 = Half hunger point
+		# Default: 1
+		# Range: > 1
+		charmSaturation = 1
+		#How fast is the charm in slow mode in ticks [20]
+		# Default: 20
+		# Range: > 1
+		charmSlowSpeed = 20
+		#How fast is the charm in fast mode in ticks [5]
+		# Default: 5
+		# Range: > 1
+		charmFastSpeed = 5
+		#How much soul does the charm consume in slow mode [1]
+		# Default: 1
+		# Range: > 0
+		charmSlowConsume = 1
+		#How much soul does the charm consume in fast mode [4]
+		# Default: 4
+		# Range: > 0
+		charmFastConsume = 4
+
+	["Accessories Configs"."Soul Robe"]
+		#How fast is the soulmancer's robe when equipped as chestplate in ticks [200]
+		# Default: 20
+		# Range: > 1
+		robeSpeed = 20
+		#How fast is the soulmancer's robe when equipped in the body accessory in ticks [20]
+		# Default: 20
+		# Range: > 1
+		robeSpeedA = 20
+		#How much soul does the soulmancer's robe produce when equipped as chestplate [12]
+		# Default: 12
+		# Range: > 1
+		robeProduce = 12
+		#How much soul does the soulmancer's robe produce when equipped in the body accessory [1]
+		# Default: 1
+		# Range: > 1
+		robeProduceA = 1

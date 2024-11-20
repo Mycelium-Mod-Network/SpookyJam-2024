@@ -1,0 +1,30 @@
+{
+  "name": "Hint #7",
+  "icon": "minecraft:paper",
+  "category": "patchouli:scavenger_hunt",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "name": "Hint #7",
+      "text": "Strange stones breathe where shadows creep, hidden things inside them sleep. Break the quiet, and claim your prize. A talisman that stills surprise.$(br)$(br)See the next page for the answer."
+    },
+    {
+      "type": "patchouli:empty"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "link_recipe": false,
+      "title": "Answer #7",
+      "text": "Obtain a Dastardly Talisman by defeating a Kreeble. These creatures hide in stone similar to silverfish.",
+      "item": {
+        "item": "kreebles:dastardly_talisman"
+      }
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_kreebles.png"],
+      "name": "Answer #7",
+      "text": "This is what a kreeble looks like. They can jump out of kreeblestone or kreebleslate when broken.$(br)"
+    }
+  ]
+}

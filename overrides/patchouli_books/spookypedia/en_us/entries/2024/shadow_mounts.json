@@ -1,0 +1,20 @@
+{
+  "name": "Shadow Mounts",
+  "icon": "shadowmounts:shadow_saddle",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "This mod adds the shadow saddle which can be used to turn your horse into a shadow mount!",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/shadow-mounts",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "shadowmounts:shadow_saddle"
+      },
+      "text": "Using the shadow saddle on a horse will transform it into its shadow form! The horse will darken in appearance and take on soul fire markings."
+    }
+  ]
+}

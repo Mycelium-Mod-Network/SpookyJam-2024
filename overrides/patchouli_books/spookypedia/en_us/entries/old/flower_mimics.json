@@ -1,0 +1,121 @@
+{
+  "name": "Flower Mimics",
+  "icon": "minecraft:allium",
+  "category": "patchouli:returning_submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "You may think flowers are not very threatening but you would be wrong! Tricky mimics have used their powers to disguise themselves as mimics.$(br)$(br)If you manage to kill one of these mimics you will be rewarded with extra loot and exp.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/flower-mimics",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:allium",
+      "title": "Allium Mimic",
+      "text": "The Allium Mimic will disguise itself among allium flowers. When killed they will drop some chorus fruits."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:azure_bluet",
+      "title": "Azure Bluet Mimic",
+      "text": "The Azure Bluet Mimic takes on the appearance of a wandering trader and will disguise itself among azure bluet flowers. When killed they will drop an emerald."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:blue_orchid",
+      "title": "Blue Orchid Mimic",
+      "text": "The Blue Orchid Mimic takes on the appearance of a drowned and will disguise itself among blue orchids. When killed they will drop a soul lantern."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:cornflower",
+      "title": "Allium Mimic",
+      "text": "The Cornflower Mimic takes on the appearance of a phantom and will disguise itself among cornflowers. When killed they will drop some feathers."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:dandelion",
+      "title": "Allium Mimic",
+      "text": "The Dandelion Mimic takes on the appearance of a Zombie Villager and will disguise itself among dandelions. When killed they will drop a golden apple."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:lilac",
+      "title": "Lilac Mimic",
+      "text": "The Lilac Mimic takes on the appearance of a shulker and will disguise itself among lilacs. When killed they will drop an end crystal."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:lily_of_the_valley",
+      "title": "Lily of the Valley Mimic",
+      "text": "The Lily of the Valley Mimic takes on the appearance of a ghast and will disguise itself among valley lily. When killed they will drop some iron ingots."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:orange_tulip",
+      "title": "Orange Tulip Mimic",
+      "text": "The Orange Tulip Mimic takes on the appearance of a Snow Golem and will disguise itself among orange tulips. When killed they will drop a powdered snow bucket."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:oxeye_daisy",
+      "title": "Oxeye Daisy Mimic",
+      "text": "The Oxeye Daisy Mimic takes on the appearance of a Stray and will disguise itself among Oxeye Daisies. When killed they will drop some spectral arrows."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:peony",
+      "title": "Peony Mimic",
+      "text": "The Peony Mimic takes on the appearance of a Vindicator and will disguise itself among peonies. When killed they will drop a cauldron."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:pink_tulip",
+      "title": "Pink Tulip Mimic",
+      "text": "The Pink Tulip Mimic takes on the appearance of a Slime and will disguise itself among pink tulips. When killed they will drop some poisonous potatoes."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:poppy",
+      "title": "Poppy Mimic",
+      "text": "The Poppy Mimic takes on the appearance of a Cave Spider and will disguise itself among poppies. When killed they will drop some cobwebs."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:red_tulip",
+      "title": "Red Tulip Mimic",
+      "text": "The Red Tulip Mimic takes on the appearance of a Spider and will disguise itself among red tulips. When killed they will drop a rabbit foot."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:rose_bush",
+      "title": "Rose Bush Mimic",
+      "text": "The Rose Bush Mimic takes on the appearance of a Magma Cube and will disguise itself among rose bushes. When killed they will drop some magma blocks."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:sunflower",
+      "title": "Sunflower Mimic",
+      "text": "The Sunflower Mimic takes on the appearance of a Creeper and will disguise itself among sunflowers. When killed they will drop some TNT."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:torchflower",
+      "title": "Torchflower Mimic",
+      "text": "The Torchflower Mimic takes on the appearance of a Blaze and will disguise itself among torchflowers. When killed they will drop some fire charges."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:white_tulip",
+      "title": "White Tulip Mimic",
+      "text": "The White Tulip Mimic takes on the appearance of a Skeleton and will disguise itself among white tulips. When killed they will drop a cake."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:wither_rose",
+      "title": "Wither Rose Mimic",
+      "text": "The Wither Rose Mimic takes on the appearance of a Wither Skeleton and will disguise itself among wither roses. When killed they will drop some netherite scraps."
+    }
+  ]
+}

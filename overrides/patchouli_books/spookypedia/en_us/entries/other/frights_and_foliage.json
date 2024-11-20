@@ -1,0 +1,13 @@
+{
+  "name": "Frights and Foliage",
+  "icon": "minecraft:jack_o_lantern",
+  "category": "patchouli:other_submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "This mod brings the autumn season to your Minecraft world! It adds new biomes, decorations, and mobs.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/frights-and-foliage",
+      "link_text": "Mod Homepage"
+    }
+  ]
+}

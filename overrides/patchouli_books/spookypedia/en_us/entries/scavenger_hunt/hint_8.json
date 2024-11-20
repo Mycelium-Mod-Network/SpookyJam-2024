@@ -1,0 +1,30 @@
+{
+  "name": "Hint #8",
+  "icon": "minecraft:paper",
+  "category": "patchouli:scavenger_hunt",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "name": "Hint #8",
+      "text": "Tick by tick, a creature's guise, awaits a touch to synchronize. With time in hand and knowledge earned, its hidden magic can be turned.$(br)$(br)See the next page for the answer."
+    },
+    {
+      "type": "patchouli:empty"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "link_recipe": false,
+      "title": "Answer #8",
+      "text": "Click on a Forest Clock with a clock item while having at least one enchanting level. Then craft a Time Density Manifest.",
+      "item": {
+        "item": "darkhours:time_density_manifest"
+      }
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "darkhours:forest_clock",
+      "title": "Answer #8",
+      "text": "The forest clock spawns in forests near midnight.$(br)"
+    }
+  ]
+}

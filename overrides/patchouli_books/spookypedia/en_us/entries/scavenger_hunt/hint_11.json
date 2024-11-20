@@ -1,0 +1,31 @@
+{
+  "name": "Hint #11",
+  "icon": "minecraft:paper",
+  "category": "patchouli:scavenger_hunt",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "name": "Hint #11",
+      "text": "A riders bond with shadows made, turns steed or mare to haunted shade. A saddle born of darkened will, where horses shiver, spirits still.$(br)$(br)See the next page for the answer."
+    },
+    {
+      "type": "patchouli:empty"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "link_recipe": false,
+      "title": "Answer #11",
+      "text": "Craft the Shadow Saddle.",
+      "item": {
+        "item": "shadowmounts:shadow_saddle"
+      }
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "shadowmounts:shadow_saddle",
+      "title": "Answer #11",
+      "text": "This is the crafting recipe for the shadow saddle.$(br)"
+    }
+  ]
+}

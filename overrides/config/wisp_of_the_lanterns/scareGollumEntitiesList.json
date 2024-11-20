@@ -1,0 +1,46 @@
+{
+  "mask1": {
+    "note": "list of entities the scare gollum will try and scare when wearing mask with design of: 1",
+    "value": "(minecraft:cat). (minecraft:ocelot). (minecraft:wolf). (minecraft:iron_gollum). (minecraft:snow_gollum). (minecraft:allay)"
+  },
+  "mask2": {
+    "note": "list of entities the scare gollum will try and scare when wearing mask with design of: 2",
+    "value": "(minecraft:zombie). (minecraft:husk). (minecraft:drowned). (minecraft:zombie_villager)"
+  },
+  "mask3": {
+    "note": "list of entities the scare gollum will try and scare when wearing mask with design of: 3",
+    "value": "(minecraft:player)"
+  },
+  "mask4": {
+    "note": "list of entities the scare gollum will try and scare when wearing mask with design of: 4",
+    "value": "(minecraft:skeleton). (minecraft:stray). (minecraft:bogged). (minecraft:wither_skeleton). (minecraft:sheep). (minecraft:fox). (minecraft:rabbit)"
+  },
+  "mask5": {
+    "note": "list of entities the scare gollum will try and scare when wearing mask with design of: 5",
+    "value": "(minecraft:pillager). (minecraft:vindicator). (minecraft:evoker). (minecraft:illusioner). (minecraft:vex)"
+  },
+  "mask6": {
+    "note": "list of entities the scare gollum will try and scare when wearing mask with design of: 6",
+    "value": "(minecraft:creeper)"
+  },
+  "mask7": {
+    "note": "list of entities the scare gollum will try and scare when wearing mask with design of: 7",
+    "value": "(minecraft:villager). (minecraft:pig). (minecraft:cow). (minecraft:sheep). (minecraft:horse). (minecraft:chicken). (minecraft:goat)"
+  },
+  "mask8": {
+    "note": "list of entities the scare gollum will try and scare when wearing mask with design of: 8",
+    "value": "(minecraft:witch). (minecraft:enderman). (minecraft:ravager). (minecraft:vex)"
+  },
+  "mask9": {
+    "note": "list of entities the scare gollum will try and scare when wearing mask with design of: 9",
+    "value": "(minecraft:spider). (minecraft:cave_spider). (minecraft:silverfish). (minecraft:enermite)"
+  },
+  "mask10": {
+    "note": "list of entities the scare gollum will try and scare when wearing mask with design of: 10",
+    "value": "(minecraft:slime). (minecraft:magma_cube)"
+  },
+  "mask11": {
+    "note": "list of entities the scare gollum will try and scare when wearing mask with design of: 11",
+    "value": "(minecraft:bee). (minecraft:parrot)"
+  }
+}

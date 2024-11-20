@@ -1,0 +1,27 @@
+{
+  "name": "Ultraviolet End",
+  "icon": "uv_end:end_coral",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "This mod adds new biomes to the end dimension!",
+      "url": "https://legacy.curseforge.com/minecraft/mc-mods/ultraviolet-end",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_end_barrens.png"],
+      "title": "Corrupted End Barrens",
+      "text": "The corrupted end barrens.$(br)",
+      "border": true
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_skelrite.png"],
+      "title": "Skelrite",
+      "text": "Skelrite can be found below corrupted islands. This precious material can be smelted into dragon scale.$(br)",
+      "border": true
+    }
+  ]
+}

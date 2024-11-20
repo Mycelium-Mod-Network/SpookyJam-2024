@@ -1,0 +1,25 @@
+{
+  "name": "Hint #13",
+  "icon": "minecraft:paper",
+  "category": "patchouli:scavenger_hunt",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "name": "Hint #13",
+      "text": "In winding maze or raiders hoard, a haunted taste is your reward. Sweet it seems, but take with care. This eerie treat has a deadly snare.$(br)$(br)See the next page for the answer."
+    },
+    {
+      "type": "patchouli:empty"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "link_recipe": false,
+      "title": "Answer #13",
+      "text": "Find the spooky jam in a loot chest from a maze or a Pillager encampment.",
+      "item": {
+        "item": "spooky_structures:spooky_jam"
+      }
+    }
+  ]
+}

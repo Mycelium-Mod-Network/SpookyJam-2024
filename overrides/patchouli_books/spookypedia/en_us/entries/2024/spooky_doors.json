@@ -1,0 +1,20 @@
+{
+  "name": "Spooky Doors",
+  "icon": "spookydoors:spooky_dark_oak_door",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "Spooky doors are a fun alternative to normal doors. You can peek through doors by slowly dragging your mouse while opening them. You can also run into the door when it is slightly ajar to slam through it.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/spooky-doors",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_spooky_doors.png"],
+      "title": "Spooky Door",
+      "text": "A spooky door with a spooky secret.$(br)",
+      "border": true
+    }
+  ]
+}

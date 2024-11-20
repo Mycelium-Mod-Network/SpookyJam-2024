@@ -1,0 +1,13 @@
+{
+  "name": "Knife Ghost",
+  "icon": "minecraft:jack_o_lantern",
+  "category": "patchouli:other_submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "The knife ghost is a new mob that will judge you for your bad pumpkin carving skills.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/knifeghost",
+      "link_text": "Mod Homepage"
+    }
+  ]
+}

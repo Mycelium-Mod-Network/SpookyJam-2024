@@ -1,0 +1,38 @@
+{
+  "parent": "spookyjam:scavenger_hunt/root",
+  "display": {
+    "title": {
+      "text": "Item #12"
+    },
+    "description": {
+      "text": "Obtain the Nyctograph Pattern."
+    },
+    "icon": {
+      "count": 1,
+      "id": "nyctography:nyctography_pattern"
+    },
+    "hidden": true,
+    "announce_to_chat": false
+  },
+  "rewards": {
+    "experience": 13,
+    "function": "spookyjam:get_item"
+  },
+  "criteria": {
+    "get_item": {
+      "conditions": {
+        "items": [
+          {
+            "items": "nyctography:nyctography_pattern"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "get_item"
+    ]
+  ]
+}

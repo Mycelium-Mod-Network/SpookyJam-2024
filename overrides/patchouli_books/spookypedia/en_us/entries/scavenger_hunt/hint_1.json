@@ -1,0 +1,30 @@
+{
+  "name": "Hint #1",
+  "icon": "minecraft:paper",
+  "category": "patchouli:scavenger_hunt",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "name": "Hint #1",
+      "text": "In shadows deep and moonlight's gleam, a cursed soul roams, unseen in day's beam. Seek the Wanderer where night takes part, his gift to you, the Glass Heart.$(br)$(br)See the next page for the answer."
+    },
+    {
+      "type": "patchouli:empty"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "link_recipe": false,
+      "title": "Answer #1",
+      "text": "Obtain the Glass Heart scroll by trading with a Wandering Cursebringer. They will randomly spawn nearby you, and will be invisible during the day.",
+      "item": {
+        "item": "wanderingcursebringer:glass_heart_scroll"
+      }
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "wanderingcursebringer:wandering_cursebringer",
+      "name": "Answer #1",
+      "text": "This is what the Wandering Cursebringer looks like.$(br)"
+    }
+  ]
+}

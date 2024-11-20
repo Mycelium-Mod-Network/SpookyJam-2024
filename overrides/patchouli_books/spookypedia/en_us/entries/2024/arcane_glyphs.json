@@ -1,0 +1,20 @@
+{
+  "name": "Arcane Glyphs",
+  "icon": "glyphs:tome",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "Harness the powers of fire, earth, water, and air to cast different spells using glyphs! Spells are made by writing combinations of glyphs in the tome.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/arcane-glyphs",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_glyphs.png"],
+      "title": "Spell: Light",
+      "text": "The combination of fire + fire + air + fire + fire will create a light spell. Can you find the others?$(br)",
+      "border": true
+    }
+  ]
+}

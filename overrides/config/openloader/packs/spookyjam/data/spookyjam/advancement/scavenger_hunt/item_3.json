@@ -1,0 +1,38 @@
+{
+  "parent": "spookyjam:scavenger_hunt/root",
+  "display": {
+    "title": {
+      "text": "Item #3"
+    },
+    "description": {
+      "text": "Obtain a White Jack o' Lantern."
+    },
+    "icon": {
+      "count": 1,
+      "id": "white_pumpkins:white_jack_o_lantern"
+    },
+    "hidden": true,
+    "announce_to_chat": false
+  },
+  "rewards": {
+    "experience": 13,
+    "function": "spookyjam:get_item"
+  },
+  "criteria": {
+    "get_item": {
+      "conditions": {
+        "items": [
+          {
+            "items": "white_pumpkins:white_jack_o_lantern"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "get_item"
+    ]
+  ]
+}

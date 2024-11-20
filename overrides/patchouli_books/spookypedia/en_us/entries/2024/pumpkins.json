@@ -1,0 +1,20 @@
+{
+  "name": "Pumpkins o' Plenty",
+  "icon": "pumpkinsoplenty:white_pumpkin",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "Adds new pumpkins in a variety of colors and styles. There are also short pumpkins that act like slab blocks!",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/pumpkins-oplenty",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_pumpkins.png"],
+      "title": "Spell: Light",
+      "text": "An assortment of different pumpkins.$(br)",
+      "border": true
+    }
+  ]
+}

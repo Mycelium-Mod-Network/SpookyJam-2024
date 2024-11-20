@@ -1,0 +1,20 @@
+{
+  "name": "The Confectioner",
+  "icon": "the_confectioner:candy",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "Confectioners are a new villager profession that deal in sweets! Jobless villagers near a cake may take on this profession!",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/the-confectioner",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_confectioner.png"],
+      "title": "Confectioner",
+      "text": "The friendly confectioner! They are known for trading candies and sweets.$(br)",
+      "border": true
+    }
+  ]
+}

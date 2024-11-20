@@ -1,0 +1,20 @@
+{
+  "name": "More Traps",
+  "icon": "minecraft:skeleton_skull",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "Some mobs in the world may be traps that will summon hostile enemies when approached.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/moretraps",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_pig_trap.png"],
+      "title": "Pig Trap",
+      "text": "Pigs may be a trap for zombie piglins! Other mobs like horses may also be trapped.$(br)",
+      "border": true
+    }
+  ]
+}

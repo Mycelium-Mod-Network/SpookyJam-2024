@@ -1,0 +1,38 @@
+{
+  "parent": "spookyjam:scavenger_hunt/root",
+  "display": {
+    "title": {
+      "text": "Item #10"
+    },
+    "description": {
+      "text": "Obtain a Silver Smithing Template."
+    },
+    "icon": {
+      "count": 1,
+      "id": "spooky_structures:silver_smithing_template"
+    },
+    "hidden": true,
+    "announce_to_chat": false
+  },
+  "rewards": {
+    "experience": 13,
+    "function": "spookyjam:get_item"
+  },
+  "criteria": {
+    "get_item": {
+      "conditions": {
+        "items": [
+          {
+            "items": "spooky_structures:silver_smithing_template"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "get_item"
+    ]
+  ]
+}

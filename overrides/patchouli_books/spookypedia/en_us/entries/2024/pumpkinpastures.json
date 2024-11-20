@@ -1,0 +1,32 @@
+{
+  "name": "Pumpkin Pastures",
+  "icon": "pumpkinpastures:pumpkin_soul",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "This mod adds new pumpkin themed food, tools, and mobs to your world!$(br)$(br)Pumpkin mobs will wander biomes where pumpkins can be found, such as swamps and plains.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/pumpkin-pastures",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "pumpkinpastures:pumpkin_zombie",
+      "name": "Pumpkin Zombie",
+      "text": "Faster than a normal zombie, these foes inflict the wither effect!$(br)"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "pumpkinpastures:pumpkin_skeleton",
+      "name": "Pumpkin Skeleton",
+      "text": "A bulkier skeleton that shoots wither tipped arrows!$(br)"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "pumpkinpastures:pumpkin_creeper",
+      "name": "Pumpkin Creeper",
+      "scale": 0.75,
+      "text": "A sneaky creeper that hides among pumpkin patches.$(br)"
+    }
+  ]
+}

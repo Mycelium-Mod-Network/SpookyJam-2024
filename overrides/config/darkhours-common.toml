@@ -1,0 +1,4 @@
+#How long the reality gear clears the dark hours for (In Ticks)
+# Default: 240000
+# Range: 0 ~ 9223372036854775807
+realityGearDuration = 240000

@@ -1,0 +1,30 @@
+{
+  "name": "Hint #3",
+  "icon": "minecraft:paper",
+  "category": "patchouli:scavenger_hunt",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "name": "Hint #3",
+      "text": "From ghostly seeds, a pumpkin pale. In moonlit fields, its color frail. Carve with care, then light the way. For spirits lost, may find their way.$(br)$(br)See the next page for the answer."
+    },
+    {
+      "type": "patchouli:empty"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "link_recipe": false,
+      "title": "Answer #3",
+      "text": "Craft white pumpkin seeds, grow a white pumpkin, carve the pumpkin with shears, and then craft a lit white Jack o' Lantern.",
+      "item": {
+        "item": "white_pumpkins:white_jack_o_lantern"
+      }
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "spookyjam:white_pumpkin",
+      "title": "Answer #3",
+      "text": "White pumpkins are normally found in the pale garden, but this crafting recipe will let you craft them without experimental features enabled.$(br)"
+    }
+  ]
+}

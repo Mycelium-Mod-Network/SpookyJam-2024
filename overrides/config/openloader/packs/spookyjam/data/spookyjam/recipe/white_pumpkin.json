@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WSW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:white_dye"
+    },
+    "S": {
+      "item": "minecraft:pumpkin_seeds"
+    }
+  },
+  "result": {
+    "id": "white_pumpkins:white_pumpkin_seeds",
+    "count": 1
+  }
+}

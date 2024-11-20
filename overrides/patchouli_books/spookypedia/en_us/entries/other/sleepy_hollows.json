@@ -1,0 +1,13 @@
+{
+  "name": "Sleepy Hollows",
+  "icon": "minecraft:jack_o_lantern",
+  "category": "patchouli:other_submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "The Sleepy Hollows is a new biome blanketed in a thick fog, where ancient graves and eerie structures lay. This mod puts a new twist on the ancient legend of sleepy hollows.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/sleepy-hollows",
+      "link_text": "Mod Homepage"
+    }
+  ]
+}

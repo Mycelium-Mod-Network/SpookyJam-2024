@@ -1,0 +1,26 @@
+{
+  "name": "Mossin' Around",
+  "icon": "mossin_around:moss_topped_stone",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "This mod adds a variety of moss covered blocks to incorporate into your builds!",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/mossin-around",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Moss Log",
+      "multiblock": {
+        "mapping": {
+          "0": "mossin_around:moss_topped_spruce_log[facing=south]",
+          "L": "mossin_around:moss_topped_spruce_log[facing=south]"
+        },
+        "pattern": [["   ", "L0L", "   "]]
+      },
+      "enable_visualize": false,
+      "text": "A fallen moss log created using this mod.$(br)"
+    }
+  ]
+}

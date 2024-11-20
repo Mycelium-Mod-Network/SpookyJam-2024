@@ -1,0 +1,19 @@
+{
+  "name": "Echoes",
+  "icon": "minecraft:echo_shard",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "This mod adds new sculk-corrupted variants of classic Minecraft mobs!",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/echoes",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "echoes:echo_creeper",
+      "name": "Echo Creeper",
+      "text": "A Creeper that has been corrupted by the sculk! They are aggravated by sound and will explode, spreading sculk around them.$(br)"
+    }
+  ]
+}

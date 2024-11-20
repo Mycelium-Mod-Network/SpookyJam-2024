@@ -1,0 +1,17 @@
+{
+  "name": "Pumpkin Plougher",
+  "icon": "pumpkinplougher:pumpkinplougher",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "The Pumpkin Plougher is the ultimate tool for the spooky season. A netherite hoe with wheels and a sculk powered engine? What more could you want! Hack and slash your way through the undead and pumpkins in style!$(br)$(br)",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/pumpkin-plougher",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Test your skills with the Raise of the Pumpkin mini-game. Using a Spooky Pumpkin will start the game. You will have 100 seconds to kill as many pumpkin zombies as possible. You can also try the harder version of the game by using a Spooky Sculky Pumpkin."
+    }
+  ]
+}

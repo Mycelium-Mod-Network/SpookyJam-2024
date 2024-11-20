@@ -1,0 +1,35 @@
+{
+  "name": "Reaped",
+  "icon": "reaped:infernal_scythe",
+  "category": "patchouli:returning_submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "The Reaped mod allows you to take on the mantle of the grim reaper! Crafting a scythe and some reaper garbs will increase your chances of beheading a mob when killed.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/reaped",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "reaped:crafting/infernal_scythe",
+      "text": "The infernal scythe is a powerful weapon and necessary tool for any reaper. Pairing it with reaper armor will increase the chance of decapitating a mob."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "reaped:crafting/reaper_hood",
+      "text": "Wearing reaper armor will increase the decapitation chance of the scythe by 5%. If you have the full armor set equipped you will also get a speed buff."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "reaped:crafting/reaper_cloak"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "reaped:crafting/reaper_grieves"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "reaped:crafting/reaper_boots"
+    }
+  ]
+}

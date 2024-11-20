@@ -1,0 +1,20 @@
+{
+  "name": "Nyctography",
+  "icon": "nyctography:nyctography_pattern",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "This mod adds a new font inspired by Lewis Carrol's Nyctograph to Minecraft. This font can be used almost anywhere the game displays text, and can even be applied to banners!",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/nyctography",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_nyctography.png"],
+      "title": "Banner Patterns",
+      "text": "The Nyctograph pattern can be crafted or found from wandering traders!$(br)",
+      "border": true
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+	// Whether the horse's texture should be darkened when equiped with a shadow saddle.
+	"darkenHorseTexture": true,
+	// Whether the particles should be shown for shadow mounts.
+	"showShadowHorseParticles": true,
+	// If enabled, shadow mount particles are only shown when a player is riding them.
+	"onlyShowParticlesWhenRiding": true
+}

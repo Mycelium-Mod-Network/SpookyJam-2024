@@ -1,0 +1,13 @@
+{
+  "name": "Luminous: Halloween",
+  "icon": "minecraft:jack_o_lantern",
+  "category": "patchouli:other_submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "This mod adds a new horseless headsman, and their pumpkin minions!",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/luminous-halloween",
+      "link_text": "Mod Homepage"
+    }
+  ]
+}

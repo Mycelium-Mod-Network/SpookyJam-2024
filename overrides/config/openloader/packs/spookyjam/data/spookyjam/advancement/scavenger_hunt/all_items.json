@@ -1,0 +1,100 @@
+{
+  "parent": "spookyjam:scavenger_hunt/root",
+  "display": {
+    "title": {
+      "text": "Scavenger Hunt Complete!"
+    },
+    "description": {
+      "text": "Complete the Pumpking's scavenger hunt."
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:jack_o_lantern"
+    },
+    "hidden": true,
+    "announce_to_chat": true
+  },
+  "rewards": {
+    "experience": 13,
+    "function": "spookyjam:get_item"
+  },
+  "criteria": {
+    "complete_quests": {
+      "trigger": "minecraft:impossible",
+      "conditions_outdated": {
+        "items": [
+          {
+            "items": [
+              "wanderingcursebringer:glass_heart_scroll"
+            ]
+          },
+          {
+            "items": [
+              "skullsandspirits:infernal_mule"
+            ]
+          },
+          {
+            "items": [
+              "white_pumpkins:white_jack_o_lantern"
+            ]
+          },
+          {
+            "items": [
+              "pumpkinsoplenty:golden_pumpkin_pie"
+            ]
+          },
+          {
+            "items": [
+              "pumpkinpastures:pumpkin_sword"
+            ]
+          },
+          {
+            "items": [
+              "impillagers:frog_mask"
+            ]
+          },
+          {
+            "items": [
+              "kreebles:dastardly_talisman"
+            ]
+          },
+          {
+            "items": [
+              "darkhours:time_density_manifest"
+            ]
+          },
+          {
+            "items": [
+              "soul_incursion:lost_soul"
+            ]
+          },
+          {
+            "items": [
+              "spooky_structures:silver_smithing_template"
+            ]
+          },
+          {
+            "items": [
+              "shadowmounts:shadow_saddle"
+            ]
+          },
+          {
+            "items": [
+              "nyctography:nyctography_pattern"
+            ]
+          },
+          {
+            "items": [
+              "spooky_structures:spooky_jam"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "complete_quests"
+    ]
+  ]
+}

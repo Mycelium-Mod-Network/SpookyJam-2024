@@ -1,0 +1,10 @@
+{
+    "name": "Spookypedia",
+    "landing_text": "Welcome to SpookyJam 2024! SpookyJam is an annual modjam held in celebration of the fall season. This book catalogues the different mods created for this event!",
+    "version": 2024,
+    "creative_tab": "minecraft:tools_and_utilities",
+    "use_resource_pack": true,
+    "filler_texture": "spookyjam:textures/gui/page_filler.png",
+    "show_progress": false,
+    "model": "spookyjam:spookypedia"
+}

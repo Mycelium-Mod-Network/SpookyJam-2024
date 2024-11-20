@@ -1,0 +1,34 @@
+{
+  "name": "Spooky Structures",
+  "icon": "spooky_structures:ectoplasm",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "This mod adds several eerie structures for you to find!",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/scalar-spooky-structures",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_spooky_maze.png"],
+      "title": "Maze",
+      "text": "A leafy maze with spawners and loot!.$(br)",
+      "border": true
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_spooky_pillager.png"],
+      "title": "Pillager Camp",
+      "text": "A pillager encampment!$(br)",
+      "border": true
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_spooky_boat.png"],
+      "title": "Nether Ship",
+      "text": "An ship left abandoned on the scorching lava sees!.$(br)",
+      "border": true
+    }
+  ]
+}

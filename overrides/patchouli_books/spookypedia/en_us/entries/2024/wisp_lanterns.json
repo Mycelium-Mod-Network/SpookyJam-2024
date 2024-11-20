@@ -1,0 +1,20 @@
+{
+  "name": "Wisp of the Lanterns",
+  "icon": "wisp_of_the_lanterns:jack_o_soul_lantern",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "This mod is inspired by the myths and legends surrounding wisps and Jack o' Lanterns.$(br)$(br)Track down haunted pumpkins and use their chunks to craft new items.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/wisp-of-the-lanterns",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_wisp.png"],
+      "title": "Wisp",
+      "text": "A wisp that has been freed from a haunted pumpkin.$(br)",
+      "border": true
+    }
+  ]
+}

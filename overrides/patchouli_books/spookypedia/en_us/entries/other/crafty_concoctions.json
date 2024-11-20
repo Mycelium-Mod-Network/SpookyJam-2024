@@ -1,0 +1,13 @@
+{
+  "name": "Crafty Concoctions",
+  "icon": "minecraft:jack_o_lantern",
+  "category": "patchouli:other_submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "This mod overhauls the brewing system, by adding more diversity in the types of potions you can craft",
+      "url": "https://legacy.curseforge.com/minecraft/mc-mods/crafty-concoctions",
+      "link_text": "Mod Homepage"
+    }
+  ]
+}

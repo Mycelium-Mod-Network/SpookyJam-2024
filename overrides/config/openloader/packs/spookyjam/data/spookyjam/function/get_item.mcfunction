@@ -1,0 +1,2 @@
+tellraw @p {"text":"You have collected an item that is part of the Pumpking's scavenger hunt! Check the Spookypedia for more info!","color":"gold"}
+playsound minecraft:block.amethyst_block.fall master @p ~ ~ ~ 10

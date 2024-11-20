@@ -1,0 +1,13 @@
+{
+  "name": "Gloom & Doom",
+  "icon": "minecraft:jack_o_lantern",
+  "category": "patchouli:other_submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "This mod is an addon to the Oreganized mod. It adds villager graveyards, the gravetender, and mischievous spirits.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/doom-gloom",
+      "link_text": "Mod Homepage"
+    }
+  ]
+}

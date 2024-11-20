@@ -1,0 +1,27 @@
+{
+  "name": "Graveyards Galore",
+  "icon": "graveyard_galore:stone_cross",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "This mod adds new decorative tombstone blocks! These can be crafted using stone in a stonecutter.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/graveyard-galore",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Decorations",
+      "multiblock": {
+        "mapping": {
+          "A": "graveyard_galore:stone_cross[facing=west]",
+          "0": "graveyard_galore:stone_headstone[facing=west]",
+          "L": "graveyard_galore:stone_pedestal[facing=west]"
+        },
+        "pattern": [["   ", "A0L", "   "]]
+      },
+      "enable_visualize": false,
+      "text": "Various decorative blocks.$(br)"
+    }
+  ]
+}

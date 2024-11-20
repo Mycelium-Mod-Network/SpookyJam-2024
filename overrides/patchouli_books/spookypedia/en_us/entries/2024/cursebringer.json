@@ -1,0 +1,19 @@
+{
+  "name": "Wandering Cursebringer",
+  "icon": "wanderingcursebringer:glass_heart_scroll",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "The Wandering Cursebringer is a new mob that will sometimes spawn nearby. ",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/wandering-cursebringer",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "wanderingcursebringer:wandering_cursebringer",
+      "name": "Wandering Cursebringer",
+      "text": "His cursed scrolls will give you a buff and a curse!$(br)"
+    }
+  ]
+}

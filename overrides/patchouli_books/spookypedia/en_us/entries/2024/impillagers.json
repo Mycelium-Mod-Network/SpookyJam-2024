@@ -1,0 +1,20 @@
+{
+  "name": "Impillagers",
+  "icon": "impillagers:frog_mask",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "Overhauls the swamp biome with new structures and content.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/impillagers",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_swamp_ruins.png"],
+      "title": "Swamp Ruins",
+      "text": "A ruin in the swamp with items buried in suspicious gravel.$(br)",
+      "border": true
+    }
+  ]
+}

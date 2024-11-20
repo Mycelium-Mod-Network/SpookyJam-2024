@@ -1,0 +1,20 @@
+{
+  "name": "Dark Hours",
+  "icon": "darkhours:reality_gear",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "At midnight a vast fog overtakes the forest. Something is not quite right, and you are not alone.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/dark-hours",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_dark_hours.png"],
+      "title": "Clock Tower",
+      "text": "Eerie clock towers loom over the distance. The key to this madness may lay inside.$(br)",
+      "border": true
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Monster of the Night Skies",
+  "icon": "minecraft:phantom_membrane",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "This mod reworks the Phantom to be less tedious! Phantoms now only attack players who fly with an Elytra at night.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/monster-of-the-night-skies",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Be warned, these phantoms have new and improved abilities! Their bite will inflict the weighted effect, which amplifies the effects of gravity three fold!$(br)$(br)Trying to hide on land may prove even more treacherous, as the phantoms shriek will lure all nearby hostile mobs to your location."
+    }
+  ]
+}

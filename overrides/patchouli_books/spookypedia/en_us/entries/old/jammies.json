@@ -1,0 +1,19 @@
+{
+  "name": "Jammies",
+  "icon": "minecraft:music_disc_cat",
+  "category": "patchouli:returning_submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "The mobs are feeling the beat!$(br)$(br)When a music disc starts playing nearby Zombies and Skeletons will start jamming and grooving out.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/jammies",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_jammies.png"],
+      "title": "Monster Mash",
+      "border": true
+    }
+  ]
+}

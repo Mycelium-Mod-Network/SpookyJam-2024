@@ -1,0 +1,48 @@
+{
+  "name": "Suspicious Zombification",
+  "icon": "suszombification:suspicious_pumpkin_pie",
+  "category": "patchouli:returning_submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "This mod expands upon Minecraft's zombie mechanics.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/suspicious-zombification",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "suszombification:zombified_chicken",
+      "name": "Zombie Chicken",
+      "text": "The eggs it lays are already rotten!$(br)",
+      "scale": 0.45
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "suszombification:zombified_cow",
+      "name": "Zombie Cow",
+      "text": "It's rotten udders produce spoiled milk.$(br)",
+      "scale": 0.75
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "suszombification:zombified_pig",
+      "name": "Zombie Pig",
+      "text": "Can be steered around using a porkchop on a stick!$(br)",
+      "scale": 0.45
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "suszombification:zombified_sheep",
+      "name": "Zombie Sheep",
+      "text": "The wool is matted and rotten!$(br)",
+      "scale": 0.75
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "suszombification:zombified_cat",
+      "name": "Zombie Cat",
+      "text": "Can gift its owner candies in the morning!$(br)",
+      "scale": 0.45
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "display": {
+    "title": {
+      "text": "Pumpking's Scavenger Hunt"
+    },
+    "description": {
+      "text": "The Pumpking has put together a scavenger hunt. Follow the riddles in your Spookypedia and find the 13 items!"
+    },
+    "icon": {
+      "id": "minecraft:jack_o_lantern",
+      "count": 1
+    },
+    "background": "minecraft:textures/block/pumpkin_side.png"
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "tick"
+    ]
+  ]
+}

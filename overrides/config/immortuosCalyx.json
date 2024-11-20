@@ -1,0 +1,13 @@
+{
+  "info": "For documentation on what each item does, see the readme file on github: https://github.com/CartoonishVillain/ImmortuosCalyx",
+  "infectionTicksPerPercentage": 600,
+  "infectionSymptomWarningMessage1": 10,
+  "infectionSymptomWarningMessage2": 20,
+  "infectionSymptomTemperatureSpeed": 30,
+  "infectionSymptomWaterBreathing": 40,
+  "infectionSymptomContagious": 50,
+  "infectionSymptomChatBlocked": 60,
+  "infectionSymptomTemperatureStrength": 70,
+  "infectionSymptomBlindness": 90,
+  "infectionSymptomConsumption": 100
+}

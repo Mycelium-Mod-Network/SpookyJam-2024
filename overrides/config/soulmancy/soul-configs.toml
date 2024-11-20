@@ -1,0 +1,13 @@
+["Soul Configs"]
+	#A percentage of how much of the entity max health should be added as soul [10]
+	# Default: 10.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	soulFromKill = 10.0
+	#A percentage of how much of the player max health should be added as vessel [2.5]
+	# Default: 2.5
+	# Range: 0.0 ~ 1.7976931348623157E308
+	vesselFromKill = 2.5
+	#A list of soul data for each biome
+	#This won't be the exact values, as they are randomized around the one inserted
+	#It should follow the syntax: modid:biome#startingSoul:maxSoul
+	soulData = ["soulmancy:ebony_forest#100:100"]

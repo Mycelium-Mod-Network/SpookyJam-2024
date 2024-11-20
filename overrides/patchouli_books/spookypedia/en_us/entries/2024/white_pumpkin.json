@@ -1,0 +1,20 @@
+{
+  "name": "White Pumpkins",
+  "icon": "white_pumpkins:carved_white_pumpkin",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "Adds white pumpkins loosely inspired by Minecraft Story Mode.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/white-pumpkins",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_white_pumpkin.png"],
+      "title": "White Pumpkin",
+      "text": "White pumpkins will eventually spawn in the pale garden.$(br)",
+      "border": true
+    }
+  ]
+}

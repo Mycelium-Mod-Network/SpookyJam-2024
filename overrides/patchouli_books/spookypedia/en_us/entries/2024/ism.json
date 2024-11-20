@@ -1,0 +1,20 @@
+{
+  "name": "Ism",
+  "icon": "ism:unseal_note",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "An ancient seal housed within a decrepit sanctuary! Following the clues and breaking the seal will bring new opportunities to your world.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/haunted",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_ism.png"],
+      "title": "Seal",
+      "text": "A mysterious seal located in a decrepit sanctuary.$(br)",
+      "border": true
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Immortuos Calyx",
+  "icon": "immortuoscalyx:infection_scanner",
+  "category": "patchouli:returning_submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "Immortuos Calyx is a parasitic disease that has been spreading across the lands. ",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/immortuos-calyx",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "immortuoscalyx:calyxanide"
+      },
+      "text": "Calyxanide can cure an infection by up to 40%! This may be lethal in later stages of infection."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "immortuoscalyx:infection_scanner"
+      },
+      "text": "Emits a redstone pulse when an infected entity steps on it."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "immortuoscalyx:health_scanner"
+      },
+      "text": "A portable scanner that gives more insight into the health of the target.rrrrrr"
+    }
+  ]
+}

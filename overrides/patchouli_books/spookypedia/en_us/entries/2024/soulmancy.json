@@ -1,0 +1,20 @@
+{
+  "name": "Soulmancy",
+  "icon": "soulmancy:onyx",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "Take on the role of a soulmancer and use the power of souls to fuel your progress!",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/soul-mastery",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["spookyjam:textures/gui/entries/hero_soulmancy.png"],
+      "title": "Ebony Forest",
+      "text": "The Ebony Forest is blanketed with a thick fog. The area has a high concentration of souls and an eerie atmosphere.$(br)",
+      "border": true
+    }
+  ]
+}

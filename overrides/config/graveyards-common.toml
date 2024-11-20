@@ -1,0 +1,8 @@
+#The change for a graveyard to spawn in a village
+# Default: 50
+# Range: 0 ~ 1000
+graveyardWeight = 50
+#The radius of the amulet of vision
+# Default: 20
+# Range: 0 ~ 100
+amuletOfVisionRadius = 20

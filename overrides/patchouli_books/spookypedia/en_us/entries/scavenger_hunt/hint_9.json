@@ -1,0 +1,24 @@
+{
+  "name": "Hint #9",
+  "icon": "minecraft:paper",
+  "category": "patchouli:scavenger_hunt",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "name": "Hint #9",
+      "text": "Where hollow hymns in silence ring, and shadows cloak forgotten things. Seek the relics left to mourn. A soul awaits, both lost and worn.$(br)$(br)See the next page for the answer."
+    },
+    {
+      "type": "patchouli:empty"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "link_recipe": false,
+      "title": "Answer #9",
+      "text": "Find a lost soul in the soul church. It can be found in loot chests, or from the vault spawners.",
+      "item": {
+        "item": "soul_incursion:lost_soul"
+      }
+    }
+  ]
+}

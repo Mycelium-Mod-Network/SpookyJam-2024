@@ -1,0 +1,73 @@
+	["Machinery Config"."Soul Furnace"]
+		#How much soul should the soul furnace consume [2]
+		# Default: 2
+		# Range: > 0
+		soulFurnaceConsume = 2
+		#A multiplier for the soul furnace speed [0.75]
+		# Default: 0.75
+		# Range: 0.0 ~ 1.7976931348623157E308
+		soulFurnaceMultiplier = 0.75
+
+	["Machinery Config"."Soul Canalizer"]
+		#The Horizontal Range of the Soul Canalizer [2]
+		# Default: 2
+		# Range: > 0
+		soulCanalizerX = 2
+		#The Vertical Range of the Soul Canalizer [1]
+		# Default: 1
+		# Range: > 0
+		soulCanalizerY = 1
+		#The Speed in ticks of the Soul Canalizer [40]
+		# Default: 40
+		# Range: > 0
+		soulCanalizerSpeed = 40
+		#How much soul should the soul canalizer consume [1, 2]
+		#First value is for crops, sugar canes and cactus, second value is for budding amethyst
+		soulCanalizerConsume = [1, 2]
+		#The chance the Soul Canalizer has to convert an Amethyst Block in a Budding Amethyst Block [0.01]
+		#The value is between 0 and 1, so 0.1d is 10%
+		#Set to 0 to disable
+		# Default: 0.01
+		# Range: 0.0 ~ 1.0
+		soulCanalizerConvertChance = 0.01
+		#How much soul is consumed to convert an Amethyst Block [250]
+		# Default: 250
+		# Range: > 0
+		soulCanalizerConvertSoul = 250
+
+	["Machinery Config"."Soul Sacrificer"]
+		#The Horizontal Range of the Soul Sacrificer [2]
+		# Default: 2
+		# Range: > 0
+		soulSacrificerX = 2
+		#The Vertical Range of the Soul Sacrificer [1]
+		# Default: 1
+		# Range: > 0
+		soulSacrificerY = 1
+		#The Speed in ticks of the Soul Sacrificer [40]
+		# Default: 40
+		# Range: > 0
+		soulSacrificerSpeed = 40
+		#How much soul should the Soul Sacrificer consume [10]
+		#This is per mob, regardless of health
+		# Default: 10
+		# Range: > 1
+		soulSacrificerConsume = 10
+		#How much soul should the Soul Sacrificer produce [1]
+		#This is per mob max health
+		# Default: 1
+		# Range: > 0
+		soulSacrificerProduce = 1
+		#The chance the Soul Sacrificer has to give vessel instead of soul [0.05]
+		#The value is between 0 and 1, so 0.05 is 5%
+		# Default: 0.05
+		# Range: 0.0 ~ 1.7976931348623157E308
+		soulSacrificerVesselAmount = 0.05
+		#The percentage of the max health to be given as vessel [0.1]
+		#The value is between 0 and 1, so 0.1 is 10%
+		# Default: 0.1
+		# Range: 0.0 ~ 1.0
+		soulSacrificerVesselChance = 0.1
+		#The entities that should be blacklisted from the Soul Sacrificer
+		#Default value is the bosses and the player [minecraft:wither, minecraft:ender_dragon, minecraft:elder_guardian, minecraft:warden, minecraft:player]
+		soulSacrificerBlacklist = ["minecraft:wither", "minecraft:ender_dragon", "minecraft:elder_guardian", "minecraft:warden", "minecraft:player"]

@@ -1,0 +1,23 @@
+{
+  "name": "Did you pay your taxes?",
+  "icon": "taxes:irs_spawn_egg",
+  "category": "patchouli:submissions",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "What could be scarier than tax season?! This mod adds three exciting new tax events to keep you in line!$(br)$(br)Every time you mine an ore, smelt an item, or trade with a villager you will be charged a small fee.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/did-you-pay-your-taxes",
+      "link_text": "Mod Homepage"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Every 30 days the tax rate increases by 1% to a maximum of 42%!$(br)$(br)Don't forget to pay your taxes by pressing Ctrl + T to open the tax screen. If you miss a payment the In-Game Revenue Service will pay you a friendly visit to remind you."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "taxes:irs",
+      "name": "IRS Agent",
+      "text": "A friendly In-Game Revenue Service agent that will remind you to pay your taxes.$(br)"
+    }
+  ]
+}

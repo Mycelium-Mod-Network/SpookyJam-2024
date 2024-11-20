@@ -1,0 +1,25 @@
+{
+    "name": "Gardens of the Dead",
+    "icon": "gardens_of_the_dead:glowing_soul_spore",
+    "category": "patchouli:returning_submissions",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "text": "The Gardens of the Dead mod adds new biomes and decorative blocks to the nether.",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/gardens-of-the-dead",
+            "link_text": "Mod Homepage"
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["spookyjam:textures/gui/entries/hero_whistling_woods.png"],
+            "border": true,
+            "text": "The Whistling Woods is an eerie biome. The reeds of whistlecane shriek with the cries of the dead.$(br)"
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["spookyjam:textures/gui/entries/hero_soulblight.png"],
+            "border": true,
+            "text": "The Soulblight Forest is renowned for its Soulblight mushrooms. They produce spores that emanate the faint glow of soul light.$(br)$(br)"
+        }
+    ]
+}
